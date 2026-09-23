@@ -1,0 +1,15 @@
+C:\Users\elepe\source\repos\R1E01\R1E01_ElenaPJ\R1E01_ElenaPJ\bin\Debug\net10.0\R1E01_ElenaPJ.exe
+C:\Users\elepe\source\repos\R1E01\R1E01_ElenaPJ\R1E01_ElenaPJ\bin\Debug\net10.0\R1E01_ElenaPJ.deps.json
+C:\Users\elepe\source\repos\R1E01\R1E01_ElenaPJ\R1E01_ElenaPJ\bin\Debug\net10.0\R1E01_ElenaPJ.runtimeconfig.json
+C:\Users\elepe\source\repos\R1E01\R1E01_ElenaPJ\R1E01_ElenaPJ\bin\Debug\net10.0\R1E01_ElenaPJ.dll
+C:\Users\elepe\source\repos\R1E01\R1E01_ElenaPJ\R1E01_ElenaPJ\bin\Debug\net10.0\R1E01_ElenaPJ.pdb
+C:\Users\elepe\source\repos\R1E01\R1E01_ElenaPJ\R1E01_ElenaPJ\obj\Debug\net10.0\R1E01_ElenaPJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elepe\source\repos\R1E01\R1E01_ElenaPJ\R1E01_ElenaPJ\obj\Debug\net10.0\R1E01_ElenaPJ.AssemblyInfoInputs.cache
+C:\Users\elepe\source\repos\R1E01\R1E01_ElenaPJ\R1E01_ElenaPJ\obj\Debug\net10.0\R1E01_ElenaPJ.AssemblyInfo.cs
+C:\Users\elepe\source\repos\R1E01\R1E01_ElenaPJ\R1E01_ElenaPJ\obj\Debug\net10.0\R1E01_ElenaPJ.csproj.CoreCompileInputs.cache
+C:\Users\elepe\source\repos\R1E01\R1E01_ElenaPJ\R1E01_ElenaPJ\obj\Debug\net10.0\R1E01_ElenaPJ.dll
+C:\Users\elepe\source\repos\R1E01\R1E01_ElenaPJ\R1E01_ElenaPJ\obj\Debug\net10.0\refint\R1E01_ElenaPJ.dll
+C:\Users\elepe\source\repos\R1E01\R1E01_ElenaPJ\R1E01_ElenaPJ\obj\Debug\net10.0\R1E01_ElenaPJ.pdb
+C:\Users\elepe\source\repos\R1E01\R1E01_ElenaPJ\R1E01_ElenaPJ\obj\Debug\net10.0\R1E01_ElenaPJ.genruntimeconfig.cache
+C:\Users\elepe\source\repos\R1E01\R1E01_ElenaPJ\R1E01_ElenaPJ\obj\Debug\net10.0\ref\R1E01_ElenaPJ.dll
+C:\Users\elepe\source\repos\R1E01\R1E01_ElenaPJ\R1E01_ElenaPJ\obj\Debug\net10.0\R1E01_El.6A3374D3.Up2Date
