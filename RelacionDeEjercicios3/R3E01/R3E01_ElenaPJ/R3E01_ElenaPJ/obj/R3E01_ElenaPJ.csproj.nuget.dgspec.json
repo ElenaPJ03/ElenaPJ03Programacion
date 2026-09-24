@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elepe\\source\\repos\\R3E01\\R3E01_ElenaPJ\\R3E01_ElenaPJ\\R3E01_ElenaPJ.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios3\\R3E01\\R3E01_ElenaPJ\\R3E01_ElenaPJ\\R3E01_ElenaPJ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elepe\\source\\repos\\R3E01\\R3E01_ElenaPJ\\R3E01_ElenaPJ\\R3E01_ElenaPJ.csproj": {
+    "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios3\\R3E01\\R3E01_ElenaPJ\\R3E01_ElenaPJ\\R3E01_ElenaPJ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elepe\\source\\repos\\R3E01\\R3E01_ElenaPJ\\R3E01_ElenaPJ\\R3E01_ElenaPJ.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios3\\R3E01\\R3E01_ElenaPJ\\R3E01_ElenaPJ\\R3E01_ElenaPJ.csproj",
         "projectName": "R3E01_ElenaPJ",
-        "projectPath": "C:\\Users\\elepe\\source\\repos\\R3E01\\R3E01_ElenaPJ\\R3E01_ElenaPJ\\R3E01_ElenaPJ.csproj",
-        "packagesPath": "C:\\Users\\elepe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elepe\\source\\repos\\R3E01\\R3E01_ElenaPJ\\R3E01_ElenaPJ\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios3\\R3E01\\R3E01_ElenaPJ\\R3E01_ElenaPJ\\R3E01_ElenaPJ.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios3\\R3E01\\R3E01_ElenaPJ\\R3E01_ElenaPJ\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\elepe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

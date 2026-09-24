@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\elepe\\.nuget\\packages\\": {}
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elepe\\source\\repos\\R3E02\\R3E02_ElenaPJ\\R3E02_ElenaPJ\\R3E02_ElenaPJ.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios3\\R3E02\\R3E02_ElenaPJ\\R3E02_ElenaPJ\\R3E02_ElenaPJ.csproj",
       "projectName": "R3E02_ElenaPJ",
-      "projectPath": "C:\\Users\\elepe\\source\\repos\\R3E02\\R3E02_ElenaPJ\\R3E02_ElenaPJ\\R3E02_ElenaPJ.csproj",
-      "packagesPath": "C:\\Users\\elepe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elepe\\source\\repos\\R3E02\\R3E02_ElenaPJ\\R3E02_ElenaPJ\\obj\\",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios3\\R3E02\\R3E02_ElenaPJ\\R3E02_ElenaPJ\\R3E02_ElenaPJ.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios3\\R3E02\\R3E02_ElenaPJ\\R3E02_ElenaPJ\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\elepe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
