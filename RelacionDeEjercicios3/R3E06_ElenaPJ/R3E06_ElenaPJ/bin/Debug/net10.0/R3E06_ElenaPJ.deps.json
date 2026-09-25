@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "R3E06_ElenaPJ/1.0.0": {
+        "runtime": {
+          "R3E06_ElenaPJ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "R3E06_ElenaPJ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
