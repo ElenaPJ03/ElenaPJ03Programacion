@@ -84,7 +84,7 @@
                 switch (codigoError)
                 {
                     case 1:
-                        Console.WriteLine("ERROR: Introduzca un valor numérico o esta fuera de rango");
+                        Console.WriteLine("ERROR: Introduzca un valor numérico o esta fuera de rango"); 
                         break;
                     case 2:
                         Console.WriteLine("ERROR: Ha seleccionado una opción del menú no válida");

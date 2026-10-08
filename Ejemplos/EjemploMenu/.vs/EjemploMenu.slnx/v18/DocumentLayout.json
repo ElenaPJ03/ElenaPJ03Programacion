@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\Ejemplos\\EjemploMenu\\",
+  "WorkspaceRootPath": "C:\\Users\\elepe\\Documents\\GitHub\\ElenaPJ03Programacion\\Ejemplos\\EjemploMenu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFFDFA60-56B5-401B-90EE-6109B867A3CA}|EjemploMenu\\EjemploMenu.csproj|c:\\users\\usuario\\documents\\github\\elenapj03programacion\\ejemplos\\ejemplomenu\\ejemplomenu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFFDFA60-56B5-401B-90EE-6109B867A3CA}|EjemploMenu\\EjemploMenu.csproj|solutionrelative:ejemplomenu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1435779-5DF0-AF9E-908A-68B74EEC5849}|EjemploMenu\\EjemploMenu.csproj|c:\\users\\elepe\\documents\\github\\elenapj03programacion\\ejemplos\\ejemplomenu\\ejemplomenu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1435779-5DF0-AF9E-908A-68B74EEC5849}|EjemploMenu\\EjemploMenu.csproj|solutionrelative:ejemplomenu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\Ejemplos\\EjemploMenu\\EjemploMenu\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\elepe\\Documents\\GitHub\\ElenaPJ03Programacion\\Ejemplos\\EjemploMenu\\EjemploMenu\\Program.cs",
               "RelativeDocumentMoniker": "EjemploMenu\\Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\Ejemplos\\EjemploMenu\\EjemploMenu\\Program.cs",
+              "ToolTip": "C:\\Users\\elepe\\Documents\\GitHub\\ElenaPJ03Programacion\\Ejemplos\\EjemploMenu\\EjemploMenu\\Program.cs",
               "RelativeToolTip": "EjemploMenu\\Program.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAgwEUAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwFYAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-08T08:24:38.18Z",
               "EditorCaption": ""
