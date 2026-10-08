@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\Ejemplos\EjemploMenu\EjemploMenu\bin\Debug\net10.0\EjemploMenu.exe
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\Ejemplos\EjemploMenu\EjemploMenu\bin\Debug\net10.0\EjemploMenu.deps.json
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\Ejemplos\EjemploMenu\EjemploMenu\bin\Debug\net10.0\EjemploMenu.runtimeconfig.json
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\Ejemplos\EjemploMenu\EjemploMenu\bin\Debug\net10.0\EjemploMenu.dll
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\Ejemplos\EjemploMenu\EjemploMenu\bin\Debug\net10.0\EjemploMenu.pdb
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\Ejemplos\EjemploMenu\EjemploMenu\obj\Debug\net10.0\EjemploMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\Ejemplos\EjemploMenu\EjemploMenu\obj\Debug\net10.0\EjemploMenu.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\Ejemplos\EjemploMenu\EjemploMenu\obj\Debug\net10.0\EjemploMenu.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\Ejemplos\EjemploMenu\EjemploMenu\obj\Debug\net10.0\EjemploMenu.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\Ejemplos\EjemploMenu\EjemploMenu\obj\Debug\net10.0\EjemploMenu.sourcelink.json
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\Ejemplos\EjemploMenu\EjemploMenu\obj\Debug\net10.0\EjemploMenu.dll
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\Ejemplos\EjemploMenu\EjemploMenu\obj\Debug\net10.0\refint\EjemploMenu.dll
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\Ejemplos\EjemploMenu\EjemploMenu\obj\Debug\net10.0\EjemploMenu.pdb
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\Ejemplos\EjemploMenu\EjemploMenu\obj\Debug\net10.0\EjemploMenu.genruntimeconfig.cache
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\Ejemplos\EjemploMenu\EjemploMenu\obj\Debug\net10.0\ref\EjemploMenu.dll
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\Ejemplos\EjemploMenu\EjemploMenu\obj\Debug\net10.0\EjemploM.75987AEE.Up2Date
