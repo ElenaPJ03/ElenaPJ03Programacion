@@ -28,7 +28,15 @@
             string entrada = "";        // Variable para almacenar la entrada del usuario
             bool esValido = true;       // Centinela para validar la entrada del usuario
             byte codigoError = 0;       // Código de error para validar la entrada del usuario
-            
+            /*
+             Error 1: 
+             Error 2:
+             Error 3:
+             Error 4:
+             Error 5:
+             Error 6:
+             Error 7:
+             */
 
             // ENTRADA
             // Mostrar el menú de opciones al usuario
