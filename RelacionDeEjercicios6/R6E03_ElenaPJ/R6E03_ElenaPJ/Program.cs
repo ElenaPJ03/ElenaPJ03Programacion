@@ -28,7 +28,16 @@
             string entrada = "";        // Variable para almacenar la entrada del usuario
             bool esValido = true;       // Centinela para validar la entrada del usuario
             byte codigoError = 0;       // Código de error para validar la entrada del usuario
-            
+            /*
+             ERROR 1 - No es valida la opcion que se ha seleccionado
+             ERROR 2 - Numero fuera de rango de las opciones del menu
+             ERROR 3 - El largo de la piscina rectangular es muy grande
+             ERROR 4 - El ancho de la piscina rectangular es muy grande
+             ERROR 5 - El radio de la piscina circular es muy grande
+             ERROR 6 - El largo de la piscina triangular es muy grande
+             ERROR 7 - El ancho de la piscina triangular es muy grande
+             ERROR 8 - La superficie es demasiado grande
+             */
 
             // ENTRADA
             // Mostrar el menú de opciones al usuario
@@ -129,6 +138,11 @@
                         superficie = (0.5f * largo * ancho);
                         break;
                 }
+                if (superficie <= MAX_SUPERFICIE)
+                {
+                    esValido = false;
+                    codigoError = 8;
+                }
             }
             // SALIDA
             // Mostrar el resultado según la opción elegida
@@ -137,13 +151,13 @@
                 switch (opcion)
                 {
                     case 1:
-                        Console.WriteLine($"La superficie de la piscina rectangular con un largo de { largo} m y un ancho de {ancho} m es de {superficie} m2.");
+                        Console.WriteLine($"La superficie de la piscina rectangular con un largo de {largo} m y un ancho de {ancho} m es de {superficie} m2.");
                         break;
                     case 2:
-                        Console.WriteLine($"La superficie de la piscina circular con un radio de { radio} m es de {superficie} m2.");
+                        Console.WriteLine($"La superficie de la piscina circular con un radio de {radio} m es de {superficie} m2.");
                         break;
                     case 3:
-                        Console.WriteLine($"La superficie de la piscina triangular con un largo de { largo} m y un ancho de {ancho} m es de {superficie} m2.");
+                        Console.WriteLine($"La superficie de la piscina triangular con un largo de {largo} m y un ancho de {ancho} m es de {superficie} m2.");
                         break;
                     case 4:
                         Console.WriteLine($"Gracias por usar el programa.");
@@ -155,8 +169,28 @@
                 switch (codigoError)
                 {
                     case 1:
+                        Console.WriteLine("ERROR 1 - No es valida la opcion que se ha seleccionado.");
                         break;
                     case 2:
+                        Console.WriteLine("ERROR 2 - Numero fuera de rango de las opciones del menu.");
+                        break;
+                    case 3:
+                        Console.WriteLine("ERROR 3 - El largo de la piscina rectangular es muy grande.");
+                        break;
+                    case 4:
+                        Console.WriteLine("ERROR 4 - El ancho de la piscina rectangular es muy grande.");
+                        break;
+                    case 5:
+                        Console.WriteLine("ERROR 5 - El radio de la piscina circular es muy grande.");
+                        break;
+                    case 6:
+                        Console.WriteLine("ERROR 6 - El largo de la piscina triangular es muy grande.");
+                        break;
+                    case 7:
+                        Console.WriteLine("ERROR 7 - El ancho de la piscina triangular es muy grande.");
+                        break;
+                    case 8:
+                        Console.WriteLine("ERROR 8 - La superficie es demasiado grande.");
                         break;
                 }
             }

@@ -77,7 +77,7 @@
                         resultado = num1 * num2;
                         break;
                     case 4:     // Validamos que no se divida por cero
-                        if (num1 != 0 && num2 != 0)
+                        if (num2 != 0)
                         {
                             resultado = num1 / num2;
                         }

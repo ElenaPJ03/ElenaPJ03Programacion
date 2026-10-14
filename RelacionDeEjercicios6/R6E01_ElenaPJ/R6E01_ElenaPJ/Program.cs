@@ -15,7 +15,7 @@
             /*
               0 - No hay error
               1 - No es un numero
-              2 - Numero fuera de rango en las opciones
+              2 - Numero fuera de rango en las opciones del menu
             */
 
             string cadenaAuxiliar;        // variable auxiliar para leer la opcion elegida por el usuario
@@ -69,7 +69,7 @@
                             Console.WriteLine("* *");
                             Console.WriteLine("*");
                             break;
-                        case 3:     // Escuadra2
+                        case 3:     // Escuadra invertida
                             Console.WriteLine("* * * * *");
                             Console.WriteLine("  * * * *");
                             Console.WriteLine("    * * *");         
@@ -96,7 +96,7 @@
                     Console.WriteLine("ERROR: Lo introducido no es un numero");
                     break;
                 case 2:     // Numero fuera de rango en las opciones
-                    Console.WriteLine($"ERROR: La opcion {opcion} no esta entre el rango establecido 1-5.");
+                    Console.WriteLine($"ERROR: La opcion {opcion} no esta entre el rango establecido {MIN_OPCION} y {MAX_OPCION}.");
                     break;
             }
         }
