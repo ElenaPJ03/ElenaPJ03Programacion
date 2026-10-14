@@ -1,0 +1,32 @@
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA 1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\bin\Debug\net10.0\PRACT_01_ElenaPJ.exe
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA 1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\bin\Debug\net10.0\PRACT_01_ElenaPJ.deps.json
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA 1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\bin\Debug\net10.0\PRACT_01_ElenaPJ.runtimeconfig.json
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA 1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\bin\Debug\net10.0\PRACT_01_ElenaPJ.dll
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA 1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\bin\Debug\net10.0\PRACT_01_ElenaPJ.pdb
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA 1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\obj\Debug\net10.0\PRACT_01_ElenaPJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA 1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\obj\Debug\net10.0\PRACT_01_ElenaPJ.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA 1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\obj\Debug\net10.0\PRACT_01_ElenaPJ.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA 1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\obj\Debug\net10.0\PRACT_01_ElenaPJ.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA 1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\obj\Debug\net10.0\PRACT_01_ElenaPJ.sourcelink.json
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA 1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\obj\Debug\net10.0\PRACT_01_ElenaPJ.dll
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA 1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\obj\Debug\net10.0\refint\PRACT_01_ElenaPJ.dll
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA 1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\obj\Debug\net10.0\PRACT_01_ElenaPJ.pdb
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA 1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\obj\Debug\net10.0\PRACT_01_ElenaPJ.genruntimeconfig.cache
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA 1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\obj\Debug\net10.0\ref\PRACT_01_ElenaPJ.dll
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA 1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\obj\Debug\net10.0\PRACT_01.01EA4F83.Up2Date
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\bin\Debug\net10.0\PRACT_01_ElenaPJ.exe
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\bin\Debug\net10.0\PRACT_01_ElenaPJ.deps.json
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\bin\Debug\net10.0\PRACT_01_ElenaPJ.runtimeconfig.json
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\bin\Debug\net10.0\PRACT_01_ElenaPJ.dll
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\bin\Debug\net10.0\PRACT_01_ElenaPJ.pdb
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\obj\Debug\net10.0\PRACT_01_ElenaPJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\obj\Debug\net10.0\PRACT_01_ElenaPJ.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\obj\Debug\net10.0\PRACT_01_ElenaPJ.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\obj\Debug\net10.0\PRACT_01_ElenaPJ.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\obj\Debug\net10.0\PRACT_01_ElenaPJ.sourcelink.json
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\obj\Debug\net10.0\PRACT_01_ElenaPJ.dll
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\obj\Debug\net10.0\refint\PRACT_01_ElenaPJ.dll
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\obj\Debug\net10.0\PRACT_01_ElenaPJ.pdb
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\obj\Debug\net10.0\PRACT_01_ElenaPJ.genruntimeconfig.cache
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\obj\Debug\net10.0\ref\PRACT_01_ElenaPJ.dll
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\PRACTICA1\PRACT_01_ElenaPJ\PRACT_01_ElenaPJ\obj\Debug\net10.0\PRACT_01.01EA4F83.Up2Date
