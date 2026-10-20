@@ -17,7 +17,7 @@
             // PROCESO
 
             // SALIDA
-            // Mostramos la salida con un buble 
+            // Mostramos la salida con un buble while
             while (contador <= VALOR_MAX)
             {
                 Console.Write(contador);

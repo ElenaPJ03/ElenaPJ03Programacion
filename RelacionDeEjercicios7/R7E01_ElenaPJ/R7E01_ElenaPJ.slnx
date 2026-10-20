@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="R7E01V1_ElenaPJ/R7E01V1_ElenaPJ.csproj" />
+  <Project Path="R7E01V2_ElenaPJ/R7E01V2_ElenaPJ.csproj" Id="e2c89df2-2950-4855-b95b-f61986552b4e" />
+  <Project Path="R7E01V3_ElenaPJ/R7E01V3_ElenaPJ.csproj" Id="ce48ec73-ec83-47ea-a315-dfba63feb83a" />
 </Solution>
