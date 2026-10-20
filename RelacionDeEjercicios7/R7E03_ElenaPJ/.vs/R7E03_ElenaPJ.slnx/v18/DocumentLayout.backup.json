@@ -1,10 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios7\\R7E03_ElenaPJ\\",
+  "WorkspaceRootPath": "C:\\Users\\elepe\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios7\\R7E03_ElenaPJ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78CED8BB-5A49-4500-89FF-DD12AF088176}|R7E03_ElenaPJ\\R7E03_ElenaPJ.csproj|c:\\users\\usuario\\documents\\github\\elenapj03programacion\\relaciondeejercicios7\\r7e03_elenapj\\r7e03_elenapj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78CED8BB-5A49-4500-89FF-DD12AF088176}|R7E03_ElenaPJ\\R7E03_ElenaPJ.csproj|solutionrelative:r7e03_elenapj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4073032E-CAAC-4383-B205-38E2572E2A7E}|R7E03V2_ElenaPJ\\R7E03V2_ElenaPJ.csproj|c:\\users\\elepe\\documents\\github\\elenapj03programacion\\relaciondeejercicios7\\r7e03_elenapj\\r7e03v2_elenapj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4073032E-CAAC-4383-B205-38E2572E2A7E}|R7E03V2_ElenaPJ\\R7E03V2_ElenaPJ.csproj|solutionrelative:r7e03v2_elenapj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elepe\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios7\\R7E01_ElenaPJ\\R7E01V2_ElenaPJ\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D135974-6B00-9369-B3D0-D86421FC009F}|R7E03_ElenaPJ\\R7E03_ElenaPJ.csproj|c:\\users\\elepe\\documents\\github\\elenapj03programacion\\relaciondeejercicios7\\r7e03_elenapj\\r7e03_elenapj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D135974-6B00-9369-B3D0-D86421FC009F}|R7E03_ElenaPJ\\R7E03_ElenaPJ.csproj|solutionrelative:r7e03_elenapj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elepe\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios7\\R7E01_ElenaPJ\\R7E01V1_ElenaPJ\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +24,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elepe\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios7\\R7E01_ElenaPJ\\R7E01V2_ElenaPJ\\Program.cs",
+              "RelativeDocumentMoniker": "..\\R7E01_ElenaPJ\\R7E01V2_ElenaPJ\\Program.cs",
+              "ToolTip": "C:\\Users\\elepe\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios7\\R7E01_ElenaPJ\\R7E01V2_ElenaPJ\\Program.cs",
+              "RelativeToolTip": "..\\R7E01_ElenaPJ\\R7E01V2_ElenaPJ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T14:27:13.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elepe\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios7\\R7E01_ElenaPJ\\R7E01V1_ElenaPJ\\Program.cs",
+              "RelativeDocumentMoniker": "..\\R7E01_ElenaPJ\\R7E01V1_ElenaPJ\\Program.cs",
+              "ToolTip": "C:\\Users\\elepe\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios7\\R7E01_ElenaPJ\\R7E01V1_ElenaPJ\\Program.cs",
+              "RelativeToolTip": "..\\R7E01_ElenaPJ\\R7E01V1_ElenaPJ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T14:27:01.502Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios7\\R7E03_ElenaPJ\\R7E03_ElenaPJ\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\elepe\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios7\\R7E03_ElenaPJ\\R7E03V2_ElenaPJ\\Program.cs",
+              "RelativeDocumentMoniker": "R7E03V2_ElenaPJ\\Program.cs",
+              "ToolTip": "C:\\Users\\elepe\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios7\\R7E03_ElenaPJ\\R7E03V2_ElenaPJ\\Program.cs*",
+              "RelativeToolTip": "R7E03V2_ElenaPJ\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T14:20:18.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elepe\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios7\\R7E03_ElenaPJ\\R7E03_ElenaPJ\\Program.cs",
               "RelativeDocumentMoniker": "R7E03_ElenaPJ\\Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios7\\R7E03_ElenaPJ\\R7E03_ElenaPJ\\Program.cs",
+              "ToolTip": "C:\\Users\\elepe\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios7\\R7E03_ElenaPJ\\R7E03_ElenaPJ\\Program.cs",
               "RelativeToolTip": "R7E03_ElenaPJ\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-13T08:38:29.65Z",
               "EditorCaption": ""

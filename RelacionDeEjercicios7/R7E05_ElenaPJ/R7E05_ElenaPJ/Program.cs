@@ -1,4 +1,6 @@
-﻿namespace R7E05_ElenaPJ
+﻿using System.ComponentModel;
+
+namespace R7E05_ElenaPJ
 {
     internal class Program
     {
@@ -7,31 +9,35 @@
         static void Main(string[] args)
         {
             // CONSTANTES 
-            const byte VALOR_MIN = 0;
-            const byte VALOR_MAX = 100;
-            const byte INCREMENTO = 1;
+            const int VALOR_INICIAL = 0;
+            const int VALOR_FINAL = 100;
 
             // VARIABLES
-            byte contador = VALOR_MIN;
-            byte numeroImpares = 0;
+            int contador = VALOR_INICIAL;
+            int numeroImpares = 0;
+            string lista = "";
 
             // ENTRADA
+            Console.WriteLine($"Números impares entre {VALOR_INICIAL} y {VALOR_FINAL}: \n");
 
             // PROCESO
 
             // SALIDA
-            while (contador <= VALOR_MAX)
+            // Mostramos la lista mediante un bucle tipo while
+            while (contador <= VALOR_FINAL)
             {
-                if (contador % 2 != 0)
+                if (contador % 2 != 0)          // Se comprueba si el numero es impar
                 {
-                    Console.Write(contador);
-                    Console.Write("\t");
-                    numeroImpares++;
+                    lista += $"{contador}\t"; 
+                    numeroImpares++;          // Incrementamos el contador de impares
                 }
 
-                contador = (byte)(contador + INCREMENTO);
-                Console.WriteLine($"Hay {numeroImpares} números impares. ");
+                contador++;
             }
+
+            // Se muestra la lista y el total de numeros impares
+            Console.WriteLine(lista);
+            Console.WriteLine($"\nTotal de números impares encontrados: {numeroImpares}");
         }
     }
 }

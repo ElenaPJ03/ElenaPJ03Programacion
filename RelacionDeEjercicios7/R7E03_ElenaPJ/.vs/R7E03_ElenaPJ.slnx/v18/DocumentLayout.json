@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios7\\R7E03_ElenaPJ\\",
+  "WorkspaceRootPath": "C:\\Users\\elepe\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios7\\R7E03_ElenaPJ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D135974-6B00-9369-B3D0-D86421FC009F}|R7E03_ElenaPJ\\R7E03_ElenaPJ.csproj|c:\\users\\usuario\\documents\\github\\elenapj03programacion\\relaciondeejercicios7\\r7e03_elenapj\\r7e03_elenapj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2150311-B906-4C48-AD08-872B396DE7AA}|R7E03V3_ElenaPJ\\R7E03V3_ElenaPJ.csproj|c:\\users\\elepe\\documents\\github\\elenapj03programacion\\relaciondeejercicios7\\r7e03_elenapj\\r7e03v3_elenapj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2150311-B906-4C48-AD08-872B396DE7AA}|R7E03V3_ElenaPJ\\R7E03V3_ElenaPJ.csproj|solutionrelative:r7e03v3_elenapj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D135974-6B00-9369-B3D0-D86421FC009F}|R7E03_ElenaPJ\\R7E03_ElenaPJ.csproj|c:\\users\\elepe\\documents\\github\\elenapj03programacion\\relaciondeejercicios7\\r7e03_elenapj\\r7e03_elenapj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D135974-6B00-9369-B3D0-D86421FC009F}|R7E03_ElenaPJ\\R7E03_ElenaPJ.csproj|solutionrelative:r7e03_elenapj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4073032E-CAAC-4383-B205-38E2572E2A7E}|R7E03V2_ElenaPJ\\R7E03V2_ElenaPJ.csproj|c:\\users\\elepe\\documents\\github\\elenapj03programacion\\relaciondeejercicios7\\r7e03_elenapj\\r7e03v2_elenapj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4073032E-CAAC-4383-B205-38E2572E2A7E}|R7E03V2_ElenaPJ\\R7E03V2_ElenaPJ.csproj|solutionrelative:r7e03v2_elenapj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +28,37 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios7\\R7E03_ElenaPJ\\R7E03_ElenaPJ\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\elepe\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios7\\R7E03_ElenaPJ\\R7E03V3_ElenaPJ\\Program.cs",
+              "RelativeDocumentMoniker": "R7E03V3_ElenaPJ\\Program.cs",
+              "ToolTip": "C:\\Users\\elepe\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios7\\R7E03_ElenaPJ\\R7E03V3_ElenaPJ\\Program.cs",
+              "RelativeToolTip": "R7E03V3_ElenaPJ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T14:28:50.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elepe\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios7\\R7E03_ElenaPJ\\R7E03V2_ElenaPJ\\Program.cs",
+              "RelativeDocumentMoniker": "R7E03V2_ElenaPJ\\Program.cs",
+              "ToolTip": "C:\\Users\\elepe\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios7\\R7E03_ElenaPJ\\R7E03V2_ElenaPJ\\Program.cs",
+              "RelativeToolTip": "R7E03V2_ElenaPJ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T14:20:18.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elepe\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios7\\R7E03_ElenaPJ\\R7E03_ElenaPJ\\Program.cs",
               "RelativeDocumentMoniker": "R7E03_ElenaPJ\\Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios7\\R7E03_ElenaPJ\\R7E03_ElenaPJ\\Program.cs",
+              "ToolTip": "C:\\Users\\elepe\\Documents\\GitHub\\ElenaPJ03Programacion\\RelacionDeEjercicios7\\R7E03_ElenaPJ\\R7E03_ElenaPJ\\Program.cs",
               "RelativeToolTip": "R7E03_ElenaPJ\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-13T08:38:29.65Z",
               "EditorCaption": ""
