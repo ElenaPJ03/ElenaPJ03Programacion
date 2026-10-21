@@ -5,12 +5,11 @@
         static void Main(string[] args)
         {
             // CONSTANTES
-            const byte VALOR_MIN = 0;
-            const byte VALOR_MAX = 100;
-            const byte DECREMENTO = 1;
+            const byte VALOR_INICIAL = 0;
+            const byte VALOR_FINAL = 100;
 
             // VARIABLES
-            byte contador = VALOR_MAX;
+            byte contador = VALOR_INICIAL;
 
             // ENTRADA
 
@@ -18,12 +17,12 @@
 
             // SALIDA
             // Mostramos la salida con un buble while
-            while (contador <= VALOR_MAX)
+            while (contador <= VALOR_FINAL)
             {
                 Console.Write(contador);
                 Console.Write("\t");
 
-                contador = (byte)(contador - DECREMENTO);
+                contador--;
             }
         }
     }

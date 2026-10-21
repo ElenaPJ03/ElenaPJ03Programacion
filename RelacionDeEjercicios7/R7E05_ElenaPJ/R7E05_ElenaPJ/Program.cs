@@ -18,24 +18,23 @@ namespace R7E05_ElenaPJ
             string lista = "";
 
             // ENTRADA
-            Console.WriteLine($"Números impares entre {VALOR_INICIAL} y {VALOR_FINAL}: \n");
+            // Console.WriteLine($"Números impares entre {VALOR_INICIAL} y {VALOR_FINAL}: \n");
 
             // PROCESO
-
-            // SALIDA
-            // Mostramos la lista mediante un bucle tipo while
+            // Hacemos el bucle mediante el metodo while
             while (contador <= VALOR_FINAL)
             {
                 if (contador % 2 != 0)          // Se comprueba si el numero es impar
                 {
-                    lista += $"{contador}\t"; 
+                    lista += $"{contador}\t";           
                     numeroImpares++;          // Incrementamos el contador de impares
                 }
 
                 contador++;
             }
-
+            // SALIDA
             // Se muestra la lista y el total de numeros impares
+            Console.WriteLine($"Números impares entre {VALOR_INICIAL} y {VALOR_FINAL}: \n");
             Console.WriteLine(lista);
             Console.WriteLine($"\nTotal de números impares encontrados: {numeroImpares}");
         }
