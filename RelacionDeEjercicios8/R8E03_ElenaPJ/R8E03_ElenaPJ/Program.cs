@@ -22,21 +22,23 @@ namespace R8E03_ElenaPJ
             // PROCESO
             do
             {
+                // Solicitamos los datos 
                 Console.Write("Introduzca un número: ");
                 cadena = Console.ReadLine();
                 esValido = int.TryParse(cadena, out numeroIntroducido);
 
-                if (!esValido)
+                if (!esValido)          // Comprobación de datos
                 {
-                    Console.Write("ERROR: No has introducido un número válido. Inténtalo de nuevo. ");
+                    Console.WriteLine("ERROR: No has introducido un número válido. Inténtalo de nuevo. ");
                 }
                 else if (numeroIntroducido != VALOR_FINAL)
                 {
                     lista += $"{numeroIntroducido}\t";
                 }
-            } while (numeroIntroducido != VALOR_FINAL);
+            } while (numeroIntroducido != VALOR_FINAL || !esValido);
             
             // SALIDA
+            // Mostramos la lista de los números que se han introducido
             Console.WriteLine("Los números que se han introducido son: ");
             Console.Write(lista);
 
