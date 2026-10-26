@@ -22,44 +22,45 @@
             string lista = "";
 
             // ENTRADA
-            // Pedimos al usuario que nos introduzca un número las veces que quiera hasta que introduzca 0.
-            do
-            {
-                Console.Write("Introduzca un número: ");                // Pedimos el número y lo leemos posteriormente
-                cadena = Console.ReadLine();
-                esValido = int.TryParse(cadena, out numeroIntroducido);
-            } while (!esValido);
-
-            if (!esValido)           // Se comprueba que el número sea válido, y si no es válido que introduzca otro número
-            {
-                Console.Write("ERROR: No has introducido un número válido. Inténtalo de nuevo. ");
-            }
-            else if (numeroIntroducido < 0)
-            {
-                Console.Write("ERROR: El número introducido no puede ser negativo. Inténtelo de nuevo. ");
-            }
 
             // PROCESO
             // Hacemos un bucle tipo do/while
-            if (esValido)
+            do
             {
-                do
+                Console.Write("Introduzca un número: ");
+                cadena = Console.ReadLine();
+
+                // Validamos si la entrada es un número entero
+                esValido = int.TryParse(cadena, out numeroIntroducido);
+
+                if (!esValido)
                 {
+                    Console.WriteLine("ERROR: No has introducido un número válido. Inténtalo de nuevo.");
+                }
+                else if (numeroIntroducido < 0)
+                {
+                    Console.WriteLine("ERROR: El número introducido no puede ser negativo. Inténtelo de nuevo.");
+                }
+                else if (numeroIntroducido != VALOR_FINAL)
+                {
+                    // Si el número es válido, positivo y distinto de 0, lo procesamos
                     lista += $"{numeroIntroducido}\t";
                     suma += numeroIntroducido;
                     cantidadNumeros++;
-                } while (numeroIntroducido != VALOR_FINAL || !esValido);
-            }
+                }
 
-            if (cantidadNumeros > 0)            // Si hay números introducidos, hacer la media de dichos números
+            } while (numeroIntroducido != VALOR_FINAL || !esValido);
+
+            // Calculamos la media si se han introducido números
+            if (cantidadNumeros > 0)
             {
-                media = suma / cantidadNumeros;
+                media = (float)suma / cantidadNumeros;
             }
 
             // SALIDA
             // Mostramos la lista de los números que se han introducido, la suma y la media
             Console.WriteLine("Los números que se han introducido son: ");
-            Console.Write(lista);
+            Console.WriteLine(lista);
             Console.WriteLine($"La suma de los números introducidos es: {suma}");
             Console.WriteLine($"La media de los números introducidos es {media}");
         }
