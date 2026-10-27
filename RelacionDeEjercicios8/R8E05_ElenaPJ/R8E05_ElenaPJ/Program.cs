@@ -21,7 +21,7 @@
             // Le pedimos al usuario que introduzca un numero con el bucle do/while
             do
             {
-                Console.Write("Introduce un número entero: ");
+                Console.Write("Introduce un número entero para comprobar si es primo: ");
                 cadena = Console.ReadLine();
                 entradaValida = int.TryParse(cadena, out numeroN);
 
