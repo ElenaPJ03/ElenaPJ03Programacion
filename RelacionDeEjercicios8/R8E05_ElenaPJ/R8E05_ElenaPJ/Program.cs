@@ -13,7 +13,7 @@
             int divisor = DIVISOR_INICIAL;
 
             bool esPrimo = true;
-            bool entradaValida = true;
+            bool esCorrecto = true;
 
             string cadena = "";
 
@@ -23,22 +23,22 @@
             {
                 Console.Write("Introduce un número entero para comprobar si es primo: ");
                 cadena = Console.ReadLine();
-                entradaValida = int.TryParse(cadena, out numeroN);
+                esCorrecto = int.TryParse(cadena, out numeroN);
 
-                if (!entradaValida)
+                if (!esCorrecto)
                 {
                     Console.WriteLine("ERROR: No has introducido un número válido. Inténtalo de nuevo.");
                 }
                 else if (numeroN <= 0)
                 {
                     Console.WriteLine("ERROR: El número debe ser mayor que cero. Inténtalo de nuevo.");
-                    entradaValida = false;          // Forzamos a que repita si no es positivo
+                    esCorrecto = false;          // Forzamos a que repita si no es positivo
                 }
 
-            } while (!entradaValida);
+            } while (!esCorrecto);
 
             // PROCESO
-            // El número 1 no es primo
+            // El número 1 no es primo de por sí.
             if (numeroN == 1)
             {
                 esPrimo = false;
@@ -58,7 +58,6 @@
             }
             // SALIDA
             // Mostramos la salida con un if/else 
-            Console.WriteLine($"El número {numeroN}:");
             if (esPrimo)
             {
                 Console.WriteLine($"El número {numeroN} es un número PRIMO.");           // Si es primo
