@@ -1,4 +1,8 @@
 <Solution>
   <Project Path="R8E05V2_ElenaPJ/R8E05V2_ElenaPJ.csproj" Id="f064f419-6b4f-4ac6-95cf-dfcb640e932f" />
+  <Project Path="R8E05V3_ElenaPJ/R8E05V3_ElenaPJ.csproj" Id="33cfab03-fb75-48a8-9c3f-aa7ea301238b" />
+  <Project Path="R8E05V4_ElenaPJ/R8E05V4_ElenaPJ.csproj" Id="31fe7bf8-f03b-4115-bc66-58b9ff4c97f6" />
+  <Project Path="R8E05V5_ElenaPJ/R8E05V5_ElenaPJ.csproj" Id="6dff3fb2-ac26-4f29-89ee-b255579b9166" />
+  <Project Path="R8E05V6_ElenaPJ/R8E05V6_ElenaPJ.csproj" Id="c67d2fcd-5b14-43b4-8728-77b6d696f3a9" />
   <Project Path="R8E05_ElenaPJ/R8E05_ElenaPJ.csproj" />
 </Solution>
