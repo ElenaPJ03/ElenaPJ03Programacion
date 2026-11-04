@@ -15,7 +15,7 @@ namespace R10E01_ElenaPJ
             const float LARGO_MAX = 20.5f;
 
             const float ANCHO_MIN = 2.5f;
-            const float ANCHO_MAX = 20.25f;
+            const float ANCHO_MAX = 10.25f;
 
             const float PROFUNDIDAD_MIN = 0.5f;
             const float PROFUNDIDAD_MAX = 5.75f;

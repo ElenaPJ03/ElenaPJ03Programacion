@@ -4,135 +4,114 @@
     {
         static void Main(string[] args)
         {
-            /// <summary>
-            /// programa que calcule la superficie y el volumen de la piscina dada el largo, el ancho y la profundidad de la misma.
-            /// </summary>
-            /// <param name="args"></param>
-            static void Main(string[] args)
+            // CONSTANTES
+
+            // VARIABLES
+            float ancho = 0f;
+            float largo = 0f;
+
+            // ENTRADA
+            // 1.- Captación / Lectura del Ancho de la Piscina
+            ancho = LeerAncho();
+
+            // 2.- Captación / Lectura del Largo de la Piscina
+            largo = LeerLargo();
+
+            // 3.- Captación / Lectura de la Profundidad de la Piscina
+
+            // PROCESO
+            // 1.- Calcular la Superficie de la Piscina
+
+            // 2.- Comprobar la Superficie de la Piscina
+
+            // 3.- Calcular el Volumen de la Piscina (si la superficie es válida)
+
+            // SALIDA
+            // 1.- Mostrar los datos de la Piscina y los datos calculados o error de superficie
+        }
+
+        static public float LeerAncho()
+        {
+            // CONSTANTES
+            const float ANCHO_MIN = 2.5f;
+            const float ANCHO_MAX = 10.25f;
+
+            // VARIABLES
+            float valorAncho = 0f;
+
+            string cadena = "";
+
+            // Detección e Idenficación de Errores
+            bool esCorrecto = true;
+            byte codError = 0;      // 0-> No hay error
+                                    // 1-> No es un valor numérco o está fuera del rango de float
+                                    // 2-> Ancho inferior al mínimo
+                                    // 3-> Ancho superior al máximo
+
+            do
             {
-                // CONSTANTES
-                const float LARGO_MIN = 2.5f;
-                const float LARGO_MAX = 20.5f;
+                codError = 0;       // Preparamos el identificador de errores en cada iteración / repetición
 
-                const float ANCHO_MIN = 2.5f;
-                const float ANCHO_MAX = 10.25f;
+                // ENTRADA - Solicitud empleando la Interfaz de Usuario
+                Console.WriteLine("Introduzca el Ancho de la Piscina: ");
+                cadena = Console.ReadLine();
 
-                const float PROFUNDIDAD_MIN = 0.5f;
-                const float PROFUNDIDAD_MAX = 5.75f;
+                // PROCESO - Validación
+                esCorrecto = Single.TryParse(cadena, out valorAncho);       // int -> Int32
 
-                const float SUPERFICIE_MIN = 6;
-
-                // VARIABLES
-                float largo = 0;
-                float ancho = 0;
-                float profundidad = 0;
-                float superficie = 0;
-                float volumen = 0;
-
-                bool esValido = true;
-                string cadenaAux = "";
-                byte codError = 0;
-
-                // ENTRADA
-                // Solicitamos y validamos el largo de la piscina
-                do
+                if (esCorrecto)
                 {
-                    codError = 0;
-                    //esValido = true;
-
-                    // Solicitamos y validamos el largo de la piscina
-                    Console.Write($"Introduce el largo de la piscina (entre {LARGO_MIN}m y {LARGO_MAX}m): ");
-                    cadenaAux = Console.ReadLine();
-                    esValido = float.TryParse(cadenaAux, out largo);
-
-                    if (!esValido)
+                    // Ancho es Inferior al Mínimo
+                    if (valorAncho < ANCHO_MIN)
                     {
-                        codError = 1;
-                    }
-                    else if (largo < LARGO_MIN || largo > LARGO_MAX)
-                    {
-                        esValido = false;
+                        esCorrecto = false;
                         codError = 2;
                     }
 
-                    // Si el largo es válido, pedimos el ancho de la piscina
-                    if (esValido)
+                    // Ancho es Superior al Máximo
+                    if (valorAncho > ANCHO_MAX)
                     {
-                        Console.Write($"Introduce el ancho de la piscina (entre {ANCHO_MIN}m y {ANCHO_MAX}m): ");
-                        cadenaAux = Console.ReadLine();
-                        esValido = float.TryParse(cadenaAux, out ancho);
-
-                        if (!esValido)
-                        {
-                            codError = 1;
-                        }
-                        else if (ancho < ANCHO_MIN || ancho > ANCHO_MAX)
-                        {
-                            esValido = false;
-                            codError = 3;
-                        }
-                        else if ((largo * ancho) < SUPERFICIE_MIN)
-                        {
-                            esValido = false;
-                            codError = 4;
-                        }
+                        esCorrecto = false;
+                        codError = 3;
                     }
+                    
+                }
+                else        // Suponemos que va a introducir un número correcto
+                {
+                    codError = 1;
+                }
 
-                    // Si el largo y el ancho son válidos, pedimos la profundidad
-                    if (esValido)
-                    {
-                        Console.Write($"Introduce la profundidad de la piscina (entre {PROFUNDIDAD_MIN}m y {PROFUNDIDAD_MAX}m): ");
-                        cadenaAux = Console.ReadLine();
-                        esValido = float.TryParse(cadenaAux, out profundidad);
+                // SALIDA - Retroalimentación de Errores (Interfaz de Usuario)
+                switch (codError)
+                {
+                    case 1:
+                        break;
+                    case 2:
+                        break;
+                    case 3:
+                        break;
+                }
 
-                        if (!esValido)
-                        {
-                            codError = 1;
-                        }
-                        else if (profundidad < PROFUNDIDAD_MIN || profundidad > PROFUNDIDAD_MAX)
-                        {
-                            esValido = false;
-                            codError = 5;
-                        }
-                    }
+            } while (!esCorrecto);
+            
 
-                    // Retroalimentación de errores
-                    switch (codError)
-                    {
-                        case 1:
-                            Console.WriteLine("ERROR: El valor introducido no es un número válido. Inténtalo de nuevo.");
-                            break;
-                        case 2:
-                            Console.WriteLine($"ERROR: El largo debe estar entre {LARGO_MIN}m y {LARGO_MAX}m.");
-                            break;
-                        case 3:
-                            Console.WriteLine($"ERROR: El ancho debe estar entre {ANCHO_MIN}m y {ANCHO_MAX}m.");
-                            break;
-                        case 4:
-                            Console.WriteLine($"ERROR: La superficie resultante debe ser de al menos {SUPERFICIE_MIN}m².");
-                            break;
-                        case 5:
-                            Console.WriteLine($"ERROR: La profundidad debe estar entre {PROFUNDIDAD_MIN}m y {PROFUNDIDAD_MAX}m.");
-                            break;
-                    }
+            // SALIDA
+            return valorAncho;
+        }
 
-                } while (!esValido);
+        static public float LeerLargo()
+        {
+            // CONSTANTES
 
+            // VARIABLES
+            float valorLargo = 0f;
 
-                // PROCESO
-                // Calculamos la superficie y el volumen de la piscina
-                superficie = largo * ancho;
-                volumen = superficie * profundidad;
+            // ENTRADA
 
-                // SALIDA
-                // Mostramos los resultados
-                Console.WriteLine("\n--- RESULTADOS DE LA PISCINA ---");
-                Console.WriteLine($"Largo: {largo} m");
-                Console.WriteLine($"Ancho: {ancho} m");
-                Console.WriteLine($"Profundidad: {profundidad} m");
-                Console.WriteLine($"Superficie: {superficie} m");
-                Console.WriteLine($"Volumen: {volumen} m");
-            }
+            // PROCESO
+
+            // SALIDA
+            return valorLargo;
         }
     }
 }
