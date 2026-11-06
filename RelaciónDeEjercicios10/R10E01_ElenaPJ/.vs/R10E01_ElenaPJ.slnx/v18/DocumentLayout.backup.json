@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\Relaci\u00F3nDeEjercicios10\\R10E01_ElenaPJ\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6739EDF8-FC29-4656-8DC4-4A0238C43044}|R10E01V3_ElenaPJ\\R10E01V3_ElenaPJ.csproj|c:\\users\\usuario\\documents\\github\\elenapj03programacion\\relaci\u00F3ndeejercicios10\\r10e01_elenapj\\r10e01v3_elenapj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6739EDF8-FC29-4656-8DC4-4A0238C43044}|R10E01V3_ElenaPJ\\R10E01V3_ElenaPJ.csproj|solutionrelative:r10e01v3_elenapj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{974698BE-9A20-6564-060F-EF10EF5CCF31}|R10E01_ElenaPJ\\R10E01_ElenaPJ.csproj|c:\\users\\usuario\\documents\\github\\elenapj03programacion\\relaci\u00F3ndeejercicios10\\r10e01_elenapj\\r10e01_elenapj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{974698BE-9A20-6564-060F-EF10EF5CCF31}|R10E01_ElenaPJ\\R10E01_ElenaPJ.csproj|solutionrelative:r10e01_elenapj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,29 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\Relaci\u00F3nDeEjercicios10\\R10E01_ElenaPJ\\R10E01V3_ElenaPJ\\Program.cs",
+              "RelativeDocumentMoniker": "R10E01V3_ElenaPJ\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\Relaci\u00F3nDeEjercicios10\\R10E01_ElenaPJ\\R10E01V3_ElenaPJ\\Program.cs*",
+              "RelativeToolTip": "R10E01V3_ElenaPJ\\Program.cs*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwFsBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T09:04:07.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\Relaci\u00F3nDeEjercicios10\\R10E01_ElenaPJ\\R10E01V2_ElenaPJ\\Program.cs",
               "RelativeDocumentMoniker": "R10E01V2_ElenaPJ\\Program.cs",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\Relaci\u00F3nDeEjercicios10\\R10E01_ElenaPJ\\R10E01V2_ElenaPJ\\Program.cs",
               "RelativeToolTip": "R10E01V2_ElenaPJ\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T21:03:26.603Z"
+              "WhenOpened": "2026-11-02T21:03:26.603Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\Relaci\u00F3nDeEjercicios10\\R10E01_ElenaPJ\\R10E01_ElenaPJ\\Program.cs",
               "RelativeDocumentMoniker": "R10E01_ElenaPJ\\Program.cs",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\Relaci\u00F3nDeEjercicios10\\R10E01_ElenaPJ\\R10E01_ElenaPJ\\Program.cs",
               "RelativeToolTip": "R10E01_ElenaPJ\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-02T17:22:50.124Z",
               "EditorCaption": ""
