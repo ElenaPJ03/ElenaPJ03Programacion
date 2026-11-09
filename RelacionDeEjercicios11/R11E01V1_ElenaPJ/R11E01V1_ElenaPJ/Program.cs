@@ -43,6 +43,9 @@
 
             do 
             {
+                // Inicializamos el código de error a 0 (no hay error)
+                codError = 0;
+
                 // ENTRADA - Solicitud empleando la Interfaz de Usuario
                 Console.Write("Introduzca un número entero positivo: ");
                 cadena = Console.ReadLine();
@@ -68,10 +71,10 @@
                 switch (codError)
                 {
                     case 1:
-                        Console.Write("ERROR: No es un valor númerico o está fuera del rango");
+                        MostrarMensajeError("ERROR: No es un valor númerico o está fuera del rango");
                         break;
                     case 2:
-                        Console.Write("ERROR: El número es negativo");
+                        MostrarMensajeError("ERROR: El número es negativo");
                         break;
                 }
             } while (!esCorrecto);
@@ -89,22 +92,27 @@
             // CONSTANTES
 
             // VARIABLES
-            bool esPar = true;
+            bool esNumeroPar = true;
 
             // ENTRADA
 
             // PROCESO
-            if (valorNumero % 2 == 0)
+            if (valorNumero % 2 != 0)
             {
-                esPar = true;
+                esNumeroPar = false;
             }
-            else
-            {
-                esPar = false;
-            }
+            
+            //if (valorNumero % 2 == 0)
+            //{
+            //    esNumeroPar = true;
+            //}
+            //else
+            //{
+            //    esNumeroPar = false;
+            //}
 
             // SALIDA
-            return esPar;
+            return esNumeroPar;
 
         }
 
@@ -121,6 +129,15 @@
             {
                 Console.WriteLine($"El número {valorNumero} es Impar");
             }
+        }
+
+        static void MostrarMensajeError(string mensaje)
+        {
+            Console.WriteLine(mensaje);
+
+            Console.Write("Pulse Enter / Intro para continuar......");
+            Console.ReadLine();      // Pausa para que el usuario lea el mensaje de error
+            Console.Clear();        // Limpiar la pantalla
         }
 
         #endregion
