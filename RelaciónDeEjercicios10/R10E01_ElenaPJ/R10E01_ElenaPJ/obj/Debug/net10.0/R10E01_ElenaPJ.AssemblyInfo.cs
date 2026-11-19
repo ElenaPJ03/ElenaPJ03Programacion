@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("R10E01_ElenaPJ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ac48aac09e44ae3b44a0f225bad844f54d49ce7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c667d4d8335e87b22536fd4a8c7b35670f9aad72")]
 [assembly: System.Reflection.AssemblyProductAttribute("R10E01_ElenaPJ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("R10E01_ElenaPJ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

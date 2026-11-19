@@ -4,4 +4,5 @@
   <Project Path="R10E01V4_ElenaPJ/R10E01V4_ElenaPJ.csproj" Id="3cc9f5fd-b802-4b48-b2b4-66561cd4f015" />
   <Project Path="R10E01_ElenaPJ/R10E01_ElenaPJ.csproj" />
   <Project Path="R10E1V5_ElenaPJ/R10E1V5_ElenaPJ.csproj" Id="1ce791f6-d94a-49d3-85db-1a9a600d6770" />
+  <Project Path="SorteoParticipantes/SorteoParticipantes.csproj" Id="98061841-a5ef-4ae0-ac7f-0b52df7483e7" />
 </Solution>

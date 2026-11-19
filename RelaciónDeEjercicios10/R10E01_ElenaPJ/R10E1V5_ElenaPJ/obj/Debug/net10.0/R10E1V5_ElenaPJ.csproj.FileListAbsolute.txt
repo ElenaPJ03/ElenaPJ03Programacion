@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\R10E1V5_ElenaPJ\bin\Debug\net10.0\R10E1V5_ElenaPJ.exe
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\R10E1V5_ElenaPJ\bin\Debug\net10.0\R10E1V5_ElenaPJ.deps.json
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\R10E1V5_ElenaPJ\bin\Debug\net10.0\R10E1V5_ElenaPJ.runtimeconfig.json
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\R10E1V5_ElenaPJ\bin\Debug\net10.0\R10E1V5_ElenaPJ.dll
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\R10E1V5_ElenaPJ\bin\Debug\net10.0\R10E1V5_ElenaPJ.pdb
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\R10E1V5_ElenaPJ\obj\Debug\net10.0\R10E1V5_ElenaPJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\R10E1V5_ElenaPJ\obj\Debug\net10.0\R10E1V5_ElenaPJ.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\R10E1V5_ElenaPJ\obj\Debug\net10.0\R10E1V5_ElenaPJ.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\R10E1V5_ElenaPJ\obj\Debug\net10.0\R10E1V5_ElenaPJ.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\R10E1V5_ElenaPJ\obj\Debug\net10.0\R10E1V5_ElenaPJ.sourcelink.json
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\R10E1V5_ElenaPJ\obj\Debug\net10.0\R10E1V5_ElenaPJ.dll
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\R10E1V5_ElenaPJ\obj\Debug\net10.0\refint\R10E1V5_ElenaPJ.dll
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\R10E1V5_ElenaPJ\obj\Debug\net10.0\R10E1V5_ElenaPJ.pdb
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\R10E1V5_ElenaPJ\obj\Debug\net10.0\R10E1V5_ElenaPJ.genruntimeconfig.cache
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\R10E1V5_ElenaPJ\obj\Debug\net10.0\ref\R10E1V5_ElenaPJ.dll
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\R10E1V5_ElenaPJ\obj\Debug\net10.0\R10E1V5_.63A32BD0.Up2Date

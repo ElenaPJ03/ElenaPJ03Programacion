@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\SorteoParticipantes\bin\Debug\net10.0\SorteoParticipantes.exe
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\SorteoParticipantes\bin\Debug\net10.0\SorteoParticipantes.deps.json
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\SorteoParticipantes\bin\Debug\net10.0\SorteoParticipantes.runtimeconfig.json
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\SorteoParticipantes\bin\Debug\net10.0\SorteoParticipantes.dll
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\SorteoParticipantes\bin\Debug\net10.0\SorteoParticipantes.pdb
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\SorteoParticipantes\obj\Debug\net10.0\SorteoParticipantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\SorteoParticipantes\obj\Debug\net10.0\SorteoParticipantes.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\SorteoParticipantes\obj\Debug\net10.0\SorteoParticipantes.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\SorteoParticipantes\obj\Debug\net10.0\SorteoParticipantes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\SorteoParticipantes\obj\Debug\net10.0\SorteoParticipantes.sourcelink.json
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\SorteoParticipantes\obj\Debug\net10.0\SorteoParticipantes.dll
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\SorteoParticipantes\obj\Debug\net10.0\refint\SorteoParticipantes.dll
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\SorteoParticipantes\obj\Debug\net10.0\SorteoParticipantes.pdb
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\SorteoParticipantes\obj\Debug\net10.0\SorteoParticipantes.genruntimeconfig.cache
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\SorteoParticipantes\obj\Debug\net10.0\ref\SorteoParticipantes.dll
+C:\Users\Usuario\Documents\GitHub\ElenaPJ03Programacion\RelaciónDeEjercicios10\R10E01_ElenaPJ\SorteoParticipantes\obj\Debug\net10.0\SorteoPa.7D635CC8.Up2Date
