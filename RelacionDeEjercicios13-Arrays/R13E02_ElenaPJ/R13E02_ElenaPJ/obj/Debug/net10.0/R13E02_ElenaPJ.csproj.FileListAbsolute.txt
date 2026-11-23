@@ -1,0 +1,16 @@
+C:\Users\elepe\Documents\GitHub\ElenaPJ03Programacion\RelacionDeEjercicios13-Arrays\R13E02_ElenaPJ\R13E02_ElenaPJ\bin\Debug\net10.0\R13E02_ElenaPJ.exe
+C:\Users\elepe\Documents\GitHub\ElenaPJ03Programacion\RelacionDeEjercicios13-Arrays\R13E02_ElenaPJ\R13E02_ElenaPJ\bin\Debug\net10.0\R13E02_ElenaPJ.deps.json
+C:\Users\elepe\Documents\GitHub\ElenaPJ03Programacion\RelacionDeEjercicios13-Arrays\R13E02_ElenaPJ\R13E02_ElenaPJ\bin\Debug\net10.0\R13E02_ElenaPJ.runtimeconfig.json
+C:\Users\elepe\Documents\GitHub\ElenaPJ03Programacion\RelacionDeEjercicios13-Arrays\R13E02_ElenaPJ\R13E02_ElenaPJ\bin\Debug\net10.0\R13E02_ElenaPJ.dll
+C:\Users\elepe\Documents\GitHub\ElenaPJ03Programacion\RelacionDeEjercicios13-Arrays\R13E02_ElenaPJ\R13E02_ElenaPJ\bin\Debug\net10.0\R13E02_ElenaPJ.pdb
+C:\Users\elepe\Documents\GitHub\ElenaPJ03Programacion\RelacionDeEjercicios13-Arrays\R13E02_ElenaPJ\R13E02_ElenaPJ\obj\Debug\net10.0\R13E02_ElenaPJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elepe\Documents\GitHub\ElenaPJ03Programacion\RelacionDeEjercicios13-Arrays\R13E02_ElenaPJ\R13E02_ElenaPJ\obj\Debug\net10.0\R13E02_ElenaPJ.AssemblyInfoInputs.cache
+C:\Users\elepe\Documents\GitHub\ElenaPJ03Programacion\RelacionDeEjercicios13-Arrays\R13E02_ElenaPJ\R13E02_ElenaPJ\obj\Debug\net10.0\R13E02_ElenaPJ.AssemblyInfo.cs
+C:\Users\elepe\Documents\GitHub\ElenaPJ03Programacion\RelacionDeEjercicios13-Arrays\R13E02_ElenaPJ\R13E02_ElenaPJ\obj\Debug\net10.0\R13E02_ElenaPJ.csproj.CoreCompileInputs.cache
+C:\Users\elepe\Documents\GitHub\ElenaPJ03Programacion\RelacionDeEjercicios13-Arrays\R13E02_ElenaPJ\R13E02_ElenaPJ\obj\Debug\net10.0\R13E02_ElenaPJ.sourcelink.json
+C:\Users\elepe\Documents\GitHub\ElenaPJ03Programacion\RelacionDeEjercicios13-Arrays\R13E02_ElenaPJ\R13E02_ElenaPJ\obj\Debug\net10.0\R13E02_ElenaPJ.dll
+C:\Users\elepe\Documents\GitHub\ElenaPJ03Programacion\RelacionDeEjercicios13-Arrays\R13E02_ElenaPJ\R13E02_ElenaPJ\obj\Debug\net10.0\refint\R13E02_ElenaPJ.dll
+C:\Users\elepe\Documents\GitHub\ElenaPJ03Programacion\RelacionDeEjercicios13-Arrays\R13E02_ElenaPJ\R13E02_ElenaPJ\obj\Debug\net10.0\R13E02_ElenaPJ.pdb
+C:\Users\elepe\Documents\GitHub\ElenaPJ03Programacion\RelacionDeEjercicios13-Arrays\R13E02_ElenaPJ\R13E02_ElenaPJ\obj\Debug\net10.0\R13E02_ElenaPJ.genruntimeconfig.cache
+C:\Users\elepe\Documents\GitHub\ElenaPJ03Programacion\RelacionDeEjercicios13-Arrays\R13E02_ElenaPJ\R13E02_ElenaPJ\obj\Debug\net10.0\ref\R13E02_ElenaPJ.dll
+C:\Users\elepe\Documents\GitHub\ElenaPJ03Programacion\RelacionDeEjercicios13-Arrays\R13E02_ElenaPJ\R13E02_ElenaPJ\obj\Debug\net10.0\R13E02_E.3FBD66C8.Up2Date
