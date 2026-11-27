@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\GestionNominas\\PoyectoGestionNominas_ElenaPJ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D96420DD-6674-4CBB-B61B-1658C78154AE}|PoyectoGestionNominas_ElenaPJ\\PoyectoGestionNominas_ElenaPJ.csproj|c:\\users\\usuario\\documents\\github\\elenapj03programacion\\gestionnominas\\poyectogestionnominas_elenapj\\poyectogestionnominas_elenapj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96420DD-6674-4CBB-B61B-1658C78154AE}|PoyectoGestionNominas_ElenaPJ\\PoyectoGestionNominas_ElenaPJ.csproj|solutionrelative:poyectogestionnominas_elenapj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\GestionNominas\\PoyectoGestionNominas_ElenaPJ\\PoyectoGestionNominas_ElenaPJ\\Program.cs",
+              "RelativeDocumentMoniker": "PoyectoGestionNominas_ElenaPJ\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\GestionNominas\\PoyectoGestionNominas_ElenaPJ\\PoyectoGestionNominas_ElenaPJ\\Program.cs",
+              "RelativeToolTip": "PoyectoGestionNominas_ElenaPJ\\Program.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAYwKgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T09:44:27.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

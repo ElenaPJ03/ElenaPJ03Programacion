@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\Relaci\u00F3nDeEjercicios10\\R10E01_ElenaPJ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98061841-A5EF-4AE0-AC7F-0B52DF7483E7}|SorteoParticipantes\\SorteoParticipantes.csproj|c:\\users\\usuario\\documents\\github\\elenapj03programacion\\relaci\u00F3ndeejercicios10\\r10e01_elenapj\\sorteoparticipantes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98061841-A5EF-4AE0-AC7F-0B52DF7483E7}|SorteoParticipantes\\SorteoParticipantes.csproj|solutionrelative:sorteoparticipantes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CE791F6-D94A-49D3-85DB-1A9A600D6770}|R10E1V5_ElenaPJ\\R10E1V5_ElenaPJ.csproj|c:\\users\\usuario\\documents\\github\\elenapj03programacion\\relaci\u00F3ndeejercicios10\\r10e01_elenapj\\r10e1v5_elenapj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CE791F6-D94A-49D3-85DB-1A9A600D6770}|R10E1V5_ElenaPJ\\R10E1V5_ElenaPJ.csproj|solutionrelative:r10e1v5_elenapj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F70B5D31-45A1-4336-A54A-F569E97ACD48}|TestR10_ElenaPJ\\TestR10_ElenaPJ.csproj|c:\\users\\usuario\\documents\\github\\elenapj03programacion\\relaci\u00F3ndeejercicios10\\r10e01_elenapj\\testr10_elenapj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F70B5D31-45A1-4336-A54A-F569E97ACD48}|TestR10_ElenaPJ\\TestR10_ElenaPJ.csproj|solutionrelative:testr10_elenapj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CE791F6-D94A-49D3-85DB-1A9A600D6770}|R10E1V5_ElenaPJ\\R10E1V5_ElenaPJ.csproj|c:\\users\\usuario\\documents\\github\\elenapj03programacion\\relaci\u00F3ndeejercicios10\\r10e01_elenapj\\r10e1v5_elenapj\\entradadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{1CE791F6-D94A-49D3-85DB-1A9A600D6770}|R10E1V5_ElenaPJ\\R10E1V5_ElenaPJ.csproj|c:\\users\\usuario\\documents\\github\\elenapj03programacion\\relaci\u00F3ndeejercicios10\\r10e01_elenapj\\r10e1v5_elenapj\\procesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CE791F6-D94A-49D3-85DB-1A9A600D6770}|R10E1V5_ElenaPJ\\R10E1V5_ElenaPJ.csproj|solutionrelative:r10e1v5_elenapj\\procesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE791F6-D94A-49D3-85DB-1A9A600D6770}|R10E1V5_ElenaPJ\\R10E1V5_ElenaPJ.csproj|c:\\users\\usuario\\documents\\github\\elenapj03programacion\\relaci\u00F3ndeejercicios10\\r10e01_elenapj\\r10e1v5_elenapj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE791F6-D94A-49D3-85DB-1A9A600D6770}|R10E1V5_ElenaPJ\\R10E1V5_ElenaPJ.csproj|solutionrelative:r10e1v5_elenapj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98061841-A5EF-4AE0-AC7F-0B52DF7483E7}|SorteoParticipantes\\SorteoParticipantes.csproj|c:\\users\\usuario\\documents\\github\\elenapj03programacion\\relaci\u00F3ndeejercicios10\\r10e01_elenapj\\sorteoparticipantes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98061841-A5EF-4AE0-AC7F-0B52DF7483E7}|SorteoParticipantes\\SorteoParticipantes.csproj|solutionrelative:sorteoparticipantes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,30 +36,18 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\Relaci\u00F3nDeEjercicios10\\R10E01_ElenaPJ\\SorteoParticipantes\\Program.cs",
-              "RelativeDocumentMoniker": "SorteoParticipantes\\Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\Relaci\u00F3nDeEjercicios10\\R10E01_ElenaPJ\\SorteoParticipantes\\Program.cs",
-              "RelativeToolTip": "SorteoParticipantes\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDAAAABRAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\Relaci\u00F3nDeEjercicios10\\R10E01_ElenaPJ\\TestR10_ElenaPJ\\Program.cs",
+              "RelativeDocumentMoniker": "TestR10_ElenaPJ\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\Relaci\u00F3nDeEjercicios10\\R10E01_ElenaPJ\\TestR10_ElenaPJ\\Program.cs",
+              "RelativeToolTip": "TestR10_ElenaPJ\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-19T09:45:42.833Z",
+              "WhenOpened": "2026-11-27T07:25:33.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProcesoDatos.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\Relaci\u00F3nDeEjercicios10\\R10E01_ElenaPJ\\R10E1V5_ElenaPJ\\ProcesoDatos.cs",
-              "RelativeDocumentMoniker": "R10E1V5_ElenaPJ\\ProcesoDatos.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\Relaci\u00F3nDeEjercicios10\\R10E01_ElenaPJ\\R10E1V5_ElenaPJ\\ProcesoDatos.cs",
-              "RelativeToolTip": "R10E1V5_ElenaPJ\\ProcesoDatos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-16T07:31:59.028Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "EntradaDatos.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\Relaci\u00F3nDeEjercicios10\\R10E01_ElenaPJ\\R10E1V5_ElenaPJ\\EntradaDatos.cs",
               "RelativeDocumentMoniker": "R10E1V5_ElenaPJ\\EntradaDatos.cs",
@@ -63,19 +55,46 @@
               "RelativeToolTip": "R10E1V5_ElenaPJ\\EntradaDatos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-16T07:31:05.323Z"
+              "WhenOpened": "2026-11-16T07:31:05.323Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\Relaci\u00F3nDeEjercicios10\\R10E01_ElenaPJ\\R10E1V5_ElenaPJ\\Program.cs",
               "RelativeDocumentMoniker": "R10E1V5_ElenaPJ\\Program.cs",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\Relaci\u00F3nDeEjercicios10\\R10E01_ElenaPJ\\R10E1V5_ElenaPJ\\Program.cs",
               "RelativeToolTip": "R10E1V5_ElenaPJ\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCYAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-16T07:28:26.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProcesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\Relaci\u00F3nDeEjercicios10\\R10E01_ElenaPJ\\R10E1V5_ElenaPJ\\ProcesoDatos.cs",
+              "RelativeDocumentMoniker": "R10E1V5_ElenaPJ\\ProcesoDatos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\Relaci\u00F3nDeEjercicios10\\R10E01_ElenaPJ\\R10E1V5_ElenaPJ\\ProcesoDatos.cs",
+              "RelativeToolTip": "R10E1V5_ElenaPJ\\ProcesoDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T07:31:59.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\Relaci\u00F3nDeEjercicios10\\R10E01_ElenaPJ\\SorteoParticipantes\\Program.cs",
+              "RelativeDocumentMoniker": "SorteoParticipantes\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ElenaPJ03Programacion\\Relaci\u00F3nDeEjercicios10\\R10E01_ElenaPJ\\SorteoParticipantes\\Program.cs",
+              "RelativeToolTip": "SorteoParticipantes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T09:45:42.833Z",
               "EditorCaption": ""
             }
           ]
